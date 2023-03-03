@@ -1,0 +1,11 @@
+Introduction to Blockchain
+Key elements of a blockchain
+Advantages of Blockchain Technology:
+Disadvantages of Blockchain Technology:
+Types of Software Architecture
+Blockchain Architecture
+Types of Blockchain Architecture
+Types of BA - Advantages & Disadvantages
+Core Components of Blockchain Architecture
+
+Cryptography Methods Used in Cryptocurrencies
