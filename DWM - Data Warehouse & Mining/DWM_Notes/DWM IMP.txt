@@ -1,0 +1,19 @@
+DWM CAT 1 QB
+Q.1  a) ii) OLTP and OLAP
+Q.1  b) b) OLAP i) ROLAP ii) MOLAP iii) HOLAP 
+Q.3  a) Data Model & Multidimensional Data Model 
+Q.3  b) Characteristics of Data Warehouse
+Q.4  a) Data Warehouse & Architecture Of Data Warehouse
+Q.6  a) Components Of Data Mining? Draw & Explain Architecture Of Data Mining
+Q.9  b) Hierarchies
+Q.11 b) K-Means Algorithm
+
+DWM CAT 2 QB
+Q.1  b) K-Means Algorithm
+Q.11 b) 
+Q.11 b) 
+Q.15  ) Discuss
+		i) Web Content Mining
+		ii) Web Usage Mining
+		iii) Web Structure Mining
+		iv) Visual Web Data Mining
